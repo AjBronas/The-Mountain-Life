@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CarAudio.cs">
+    <Files>
+      <File FileName="Assets\Scripts\InteractionUtility.cs" Line="35" Column="48" />
+      <File FileName="Assets\Scripts\Weapon.cs" Line="228" Column="49" />
+      <File FileName="Assets\Scripts\XmlImporter.cs" Line="6" Column="25" />
+      <File FileName="Assets\Scripts\PlayerFunctionalities.cs" Line="203" Column="56" />
+      <File FileName="Assets\Scripts\GrabFunctions.cs" Line="180" Column="4" />
+      <File FileName="Assets\Scripts\EquipableWeapon.cs" Line="4" Column="46" />
+      <File FileName="Assets\Scripts\GlobalVariables.cs" Line="73" Column="71" />
+      <File FileName="Assets\Spawner.cs" Line="42" Column="56" />
+      <File FileName="Assets\Scripts\FakeGravity.cs" Line="45" Column="100" />
+      <File FileName="Assets\Scripts\CarAudio.cs" Line="151" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

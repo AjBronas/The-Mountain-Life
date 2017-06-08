@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Weapon name="Nosler M48">
+    <Ammo type=".308">
+      <ClipSize>6</ClipSize>
+      <MaxClips>4</MaxClips>
+    </Ammo>
+    <Effects>
+      <FireLocation>fireTransform</FireLocation>
+      <FireAudio>gun_shot02</FireAudio>
+      <PullbackAudio>pull.wav</PullbackAudio>
+      <ReloadAudio>reload.wav</ReloadAudio>
+      <EmptyAudio>empty.wav</EmptyAudio>
+    </Effects>
+    <Variables>
+      <Animation>Weapons/M48</Animation>
+      <FireTransform>0,0,0</FireTransform>
+      <FireRate>2</FireRate>
+      <ReloadTime>4.5</ReloadTime>
+      <ZoomMagn>2</ZoomMagn>
+      <ZoomSpeed>5</ZoomSpeed>
+      <ProjSpeed>175</ProjSpeed>
+      <ProjArc>0</ProjArc>
+      <Sway>5</Sway>
+      <Loudness>30</Loudness>
+      <AniIndex />
+      <AimPosition>0,-0.067,0.294</AimPosition>
+      <Scale>0.1,0.1,0.1</Scale>
+      <Rotation>0,180,0,0</Rotation>
+      <Position>0.14,-0.063,0.43</Position>
+      <Cost>1795.00</Cost>
+      <Image>m48Image2</Image>
+    </Variables>
+  </Weapon>
+  <Weapon name="GEWEHR 43">
+    <Ammo type="5.56">
+      <ClipSize>10</ClipSize>
+      <MaxClips>5</MaxClips>
+    </Ammo>
+    <Effects>
+      <FireLocation>fireTransform</FireLocation>
+      <FireAudio>gun_shot02</FireAudio>
+      <PullbackAudio>pull.wav</PullbackAudio>
+      <ReloadAudio>reload.wav</ReloadAudio>
+      <EmptyAudio>empty.wav</EmptyAudio>
+    </Effects>
+    <Variables>
+      <Animation>Weapons/GEWEHR 43</Animation>
+      <FireTransform>0,0,0</FireTransform>
+      <FireRate>0.75</FireRate>
+      <ReloadTime>3.5</ReloadTime>
+      <ZoomMagn>3</ZoomMagn>
+      <ZoomSpeed>3</ZoomSpeed>
+      <ProjSpeed>175</ProjSpeed>
+      <ProjArc>0</ProjArc>
+      <Sway>4</Sway>
+      <Loudness>35</Loudness>
+      <AniIndex>-semi</AniIndex>
+      <AimPosition>0.006,-0.097,0.4</AimPosition>
+      <Scale>0.04,0.035,0.055</Scale>
+      <Rotation>0,180,0,0</Rotation>
+      <Position>0.15,-0.085,0.45</Position>
+      <Cost>1645.00</Cost>
+      <Image>m48Image2</Image>
+    </Variables>
+  </Weapon>
+  <Weapon name="Ambush Custom">
+    <Ammo type="5.56">
+      <ClipSize>10</ClipSize>
+      <MaxClips>5</MaxClips>
+    </Ammo>
+    <Effects>
+      <FireLocation>fireTransform</FireLocation>
+      <FireAudio>gun_shot02</FireAudio>
+      <PullbackAudio>pull.wav</PullbackAudio>
+      <ReloadAudio>reload.wav</ReloadAudio>
+      <EmptyAudio>empty.wav</EmptyAudio>
+    </Effects>
+    <Variables>
+      <Animation>Weapons/Ambush Custom</Animation>
+      <FireTransform>0,0,0</FireTransform>
+      <FireRate>0.5</FireRate>
+      <ReloadTime>3.5</ReloadTime>
+      <ZoomMagn>1.75</ZoomMagn>
+      <ZoomSpeed>3</ZoomSpeed>
+      <ProjSpeed>200</ProjSpeed>
+      <ProjArc>0</ProjArc>
+      <Sway>4</Sway>
+      <Loudness>25</Loudness>
+      <AniIndex>-semi</AniIndex>
+      <AimPosition>0,-0.068,0.3</AimPosition>
+      <Scale>0.085,0.05,0.085</Scale>
+      <Rotation>0,160,0,0</Rotation>
+      <Position>0.14,-0.08,0.35</Position>
+      <Cost>2495.00</Cost>
+      <Image>m48Image2</Image>
+    </Variables>
+  </Weapon>
+</Data>
